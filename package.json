@@ -72,7 +72,7 @@
     "redis": "^2.8.0",
     "request": "^2.40.0",
     "require-dir": "^0.3.2",
-    "semver": "^5.0.1",
+    "semver": "^5.7.2",
     "socket.io": "4.4.1",
     "socket.io-client": "4.4.1",
     "store2": "^2.5.1",
